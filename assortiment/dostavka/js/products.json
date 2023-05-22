@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"title": "RTX-4070",
+		"itemsInBox": 300,
+		"weight": 1150,
+		"price": 799,
+		"imgSrc": "rtx 4070 300.jpg"
+	},
+	{
+		"id": 2,
+		"title": "RTX-3070",
+		"itemsInBox": 23,
+		"weight": 1400,
+		"price": 699,
+		"imgSrc": "rtx 3070 300.jpg"
+	},
+	{
+		"id": 3,
+		"title": "RX-5600",
+		"itemsInBox": 70,
+		"weight": 800,
+		"price": 279,
+		"imgSrc": "rx 5600 300.jpg"
+	},
+	{
+		"id": 4,
+		"title": "RTX-3050",
+		"itemsInBox": 50,
+		"weight": 1768,
+		"price": 249,
+		"imgSrc": "rtx 3050 300.jpg"
+	}
+]
